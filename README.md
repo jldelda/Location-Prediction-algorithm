@@ -1,3 +1,3 @@
 # Location-Prediction-algorithm
 
-![GitHub Logo](/Explanations/corner_2.png)
+![GitHub Logo](/Explanations/Corner_2.png)
