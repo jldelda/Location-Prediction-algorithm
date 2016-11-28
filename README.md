@@ -21,8 +21,12 @@ The datasets I provide in this repo is:
 
 **I don´t provide the Mosquito.Borne.Disease.csv dataset because I don't own the rights to do so. However, if you have that dataset, you can run the R script in Points in grid.R.**
 
-## Next steps to build the algorithm
-
+## Next steps to build the algorithm (To do list)
+* Create a "master" dataset with as many rows as cells multiplied by time periods. Example: I we are analysing per week, we will need each cell repeated as many weeks in our study period.
+* Aggregate the Mosquito Borne Disease dataset in a way it has a common id with the previous dataset.
+* Merge both datasets.
 
 ## Understanding this repository
+This repository is just a methodology proposed for the participants of the [Alert Zika!](www.alerta-zika.org) Data Expedition event.
 
+Anyone should be free to use this methodology or any other for the event.
