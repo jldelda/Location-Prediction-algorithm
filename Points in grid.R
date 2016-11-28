@@ -104,9 +104,24 @@ write.csv(Mosquito, "Mosquito-by-cells.csv", row.names=FALSE)
 #                     CREATE DATASET FOR ML ALGORITHM
 
 # With this script we are going to 
-# 1.- aggregate and count the number of occurrences each cell per time period.
-# 2.- create an empty cell dataset with the time periods.
+# 1.- create an empty cell dataset with the time periods.
+# 2.- aggregate and count the number of occurrences each cell per time period.
 # 3.- merge both dataset to have the number of occurrences in each cell.
+
+# 1.- create an empty cell dataset with the time periods.
+
+  
+
+# 2.- aggregate and count the number of occurrences each cell per time period.
+library(dplyr)
+
+
+
+
+
+
+
+
 
 
 
